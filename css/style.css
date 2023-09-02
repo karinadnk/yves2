@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;700&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat";
+}
+
+.mom {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  margin-top: 50px;
+  column-gap: 10px;
+}
+
+.XL {
+  margin: 0 0 16px;
+  font-size: 22px;
+  font-family: Montserrat;
+}
+
+.S {
+  margin: 25px 0 16px;
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: normal;
+}
+
+.M {
+  margin: 25px 0 16px;
+  font-size: 18px;
+  font-family: Montserrat;
+  font-weight: normal;
+}
+
+
+.container__first {
+  display: block;
+  width: 370px;
+  height: 280px;
+  background-color: #9ee3e0;
+  border-radius: 5%;
+  text-align: center;
+}
+
+.first #privilege {
+  width: 332px;
+  height: 188px;
+  background-position: bottom;
+  margin: 10px;
+}
+
+.container__second {
+  display: block;
+  width: 370px;
+  height: 280px;
+  background-color: #008680;
+  border-radius: 5%;
+  text-align: center;
+}
+
+.second #boutique {
+  width: 332px;
+  height: 188px;
+  background-position: bottom;
+  margin-top: 10px;
+}
+
+.container__third {
+  display: block;
+  width: 370px;
+  height: 280px;
+  background-color: #def1db;
+  border-radius: 5%;
+  text-align: center;
+}
+
+.third #SPA {
+  width: 332px;
+  height: 188px;
+  background-position: bottom;
+  margin-top: 10px;
+}
+
+
+.content-colomn {
+  margin-top: 150px;
+}
+
+.peach {
+  margin: 5px;
+  width: 550px;
+  height: 269px;
+}
+
+.smile {
+  margin: 5px;
+  width: 550px;
+  height: 180px;
+}
+
+.makeup {
+  margin: 5px;
+  width: 550px;
+  height: 180px;
+}
+
+.lifting {
+  margin: 5px;
+  width: 550px;
+  height: 269px;
+}
+
+.new {
+  margin: 5px;
+  width: 1140px;
+  height: 229px;
+}
+
+.fantasy {
+  margin: 5px;
+  width: 1140px;
+  height: 229px;
+}
+
+.colomn {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px 12px;
+  justify-content: center;
+}
+
+
+.max-content {
+  width: 1472px;
+  height: 133px;
+  background-color: rgba(111, 126, 13, .1);
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  font-size: 16px;
+  font-family: Montserrat;
+
+}
+
+.present {
+  width: 46px;
+  height: 46px;
+  display: grid;
+  place-items: center;
+  margin: auto;
+}
+
+.return {
+  width: 46px;
+  height: 46px;
+  display: grid;
+  place-items: center;
+  margin: auto;
+}
+
+.delivery {
+  width: 46px;
+  height: 46px;
+  display: grid;
+  place-items: center;
+  margin: auto;
+}
+
+
+.container__social {
+  width: 1470px;
+  height: 70px;
+  background-color: #6f7e0d;
+  margin-top: 5px;
+  font-size: 15px;
+  font-family: Montserrat;
+  font-weight: bold;
+}
+
+.social_icon {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  column-gap: 50px;
+  padding: 10px;
+}
+
+.text {
+  float: left;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.tg {
+  width: 45px;
+  height: 45px;
+}
+
+.vk {
+  width: 45px;
+  height: 45px;
+}
+
+.ok {
+  width: 45px;
+  height: 45px;
+}
